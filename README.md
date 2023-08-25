@@ -91,17 +91,17 @@ resuelva el problema y genere un dataframe deseado.
 <li><mark>El primer KPI</mark> muestra la variación porcentual del `Bitcoin` cada mes del año con respecto al mismo mes del año anterior. 
     Con ello se puede decidir si hay algún mes en específico que sea más rentable para invertir.</li>
 
-    <img style= "text-align: center;" src='imagenes/KPI_1.png'>
+<img style= "text-align: center;" src='imagenes/KPI_1.png'>
 
 <li><mark>El segundo KPI</mark> muestra la rentabilidad o rendimiento del `Bitcoin` por cada cada año. Para ello se toma el precio con que 
     inició el año (01 de enero) y se compara con el precio con el cual cerró el año (31 de diciembre). Los valores son porcentuales y 
     cuando el valor es positivo indica que el precio aumentó y cuando el valor es negativo indica que bajó, como fue el caso del año 2022.</li>
 
-    <img style= "text-align: center;" src='imagenes/KPI_2.png'>
+<img style= "text-align: center;" src='imagenes/KPI_2.png'>
 
 <li><mark>El tercer KPI</mark> muestra la rentabilidad o rendimiento procentual del `Bitcoin` desde el 2020 hasta la presente fecha. Para ello se 
     tomó el precio con que inició el año 2020 (01 de enero) y se compara con el precio actual (18 de agosto de 2023).</li>
 
-    <img style= "text-align: center;" src='imagenes/KPI_3.png'>
+<img style= "text-align: center;" src='imagenes/KPI_3.png'>
 
 </ol>
